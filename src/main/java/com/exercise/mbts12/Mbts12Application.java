@@ -4,7 +4,7 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@MapperScan("com.exercise.mbts12.mapper")
+@MapperScan("com.exercise.mbts12.repository")
 @SpringBootApplication
 public class Mbts12Application {
 
